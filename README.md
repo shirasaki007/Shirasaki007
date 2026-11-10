@@ -1,16 +1,39 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**shirasaki007/Shirasaki007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:101010,100:183A2B&height=180&section=header&text=Developer&fontSize=48&fontColor=FFFFFF&fontAlignY=45&desc=Computer%20Engineering%20Student&descSize=16&descColor=AAAAAA&descAlignY=68"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About me
+
+Computer Engineering student interested in software development, programming and technology.
+
+Currently developing my skills and exploring new technologies, always looking for opportunities to learn and build practical projects.
+
+## Technologies
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=cs,php&theme=dark" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+**Learning next**
+
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp&theme=dark" />
+
+## GitHub Statistics
+
+<div align="center">
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=183A2B&height=2&section=footer"/>
+
+</div>
